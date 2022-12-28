@@ -1,2 +1,2 @@
 # ReactApp
-CRUD app for training informations
+CRUD app for training information
